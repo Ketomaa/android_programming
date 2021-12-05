@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">AndroidJava</string>
+    <string name="app_name">Open me!</string>
+    <string name="hello_text">Hello there!</string>
+    <string name="button_text">Show/hide text</string>
+    <string name="gameButton_text">Start Game</string>
+    <string name="gameName">Bet you can\'t find the diamond!</string>
+    <string name="card">Is it this one?</string>
+    <string name="front_pic">No Apple!</string>
+    <string name="game_button">Play again?</string>
+    <string name="title_activity_home_fragment">HomeFragment</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Avaa minut!</string>
+    <string name="hello_text">Tervetuloa!</string>
+    <string name="button_text">Näytä/piilota teksti</string>
+    <string name="gameButton_text">Aloita peli</string>
+    <string name="gameName">Et varmasti löydä timanttia!</string>
+    <string name="card">Onko timantti tämän alla?</string>
+    <string name="front_pic">Ei Applea</string>
+    <string name="game_button">Pelaa uudelleen?</string>
+</resources>
